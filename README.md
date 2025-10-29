@@ -27,7 +27,7 @@ The dataset contains information about restaurants, including:
 ---
 
 ## 🖼️ Dashboard Preview  
-1[image alt](https://github.com/Sahilk770/Zomato_Dashboard_PowerBI_Project/blob/17438af817f14a56acf6a15e419cb624a75e7ee7/Screenshots/Screenshot%202025-10-29%20113901.png)
+![image alt](https://github.com/Sahilk770/Zomato_Dashboard_PowerBI_Project/blob/17438af817f14a56acf6a15e419cb624a75e7ee7/Screenshots/Screenshot%202025-10-29%20113901.png)
 
 ---
 
